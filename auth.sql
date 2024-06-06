@@ -1,0 +1,1 @@
+CREATE DATABASE evergreen_academy_auth;
